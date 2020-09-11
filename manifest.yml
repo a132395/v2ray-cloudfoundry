@@ -1,7 +1,9 @@
 applications:
 - path: .
   name: GetStartedGo
+  command: ./zai/zai
   random-route: true
   memory: 256M
   buildpacks:
   - binary_buildpack
+
