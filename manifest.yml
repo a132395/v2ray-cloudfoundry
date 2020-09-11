@@ -1,7 +1,7 @@
 applications:
 - path: .
   name: GetStartedGo
-  command: ./zai/zai
+  command: ./ruby/ruby
   random-route: true
   memory: 256M
   buildpacks:
